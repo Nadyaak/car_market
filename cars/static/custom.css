@@ -1,0 +1,88 @@
+.card-img-top {
+	border-radius: 4px;
+	border-bottom: dotted 1px;
+	display: block 0.50px;
+	border-color: #CFD6AD;
+	height: 25vw;
+	width: 100%;
+}
+.card {
+	margin-bottom: 50px; 
+	border:1.5px;
+	border-color: #999999;
+}
+.card-body{
+	height: 200px;
+}
+.alert{
+	margin-top: 50px;
+}
+body {
+	background-color: rgba(144, 144, 144, 0.075);
+}
+
+img {
+	height: 100%;
+	width: 100%;
+}
+.card-mm{
+	font-size: 25px;
+	font-family: Times New Roman;
+	text-transform: uppercase;
+	letter-spacing: 0.300rem;	
+	color: #EF6480;
+}
+
+
+.card-y{
+	font-size: 18px;
+	font-family: Times New Roman;
+	text-transform: capitalize;
+	color: #999999;
+}
+.alert-make{
+	font-size: 40px;
+	font-family: Times New Roman;
+	text-transform: uppercase;
+	letter-spacing: 0.300rem;
+	color: #EF6480;	
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.alert-model{
+	font-size: 22px;
+	font-family: Times New Roman;
+	color: #999999;
+	margin-bottom: 15px;
+}
+.alert-year{
+	font-size: 16px;
+	font-family: Times New Roman;
+	text-transform: capitalize;	
+	color: #999999;
+	margin-bottom: 20px;
+}
+.imgtry {
+
+	height: 400px;
+	width: 450px;
+	margin-top: 40px;
+
+}
+
+
+.btn{
+	background-color: white;
+	color: #444444;
+	border: 1.3px solid #444444;
+	font-family: Times New Roman;
+	text-transform: uppercase;
+	letter-spacing: 0.325em;
+	font-size: 0.725em;
+	margin: 0.5em 0.5em 0.5em 0em;
+}
+.btn:hover {
+  border-color: #EF6480;
+  color:  #EF6480 ;
+}
